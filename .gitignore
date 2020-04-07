@@ -1,6 +1,6 @@
 CI_phpStorm.php
 .idea
-css
-images
-js
-important
+/css
+/images
+/js
+/important
