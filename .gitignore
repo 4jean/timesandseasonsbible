@@ -5,5 +5,5 @@ CI_phpStorm.php
 /js
 /important
 /include
-/cj_app/config
+/cj_app/config/
 *.zip
