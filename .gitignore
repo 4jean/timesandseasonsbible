@@ -1,9 +1,0 @@
-CI_phpStorm.php
-.idea
-/css
-/images
-/js
-/important
-/include
-/cj_app/config/
-*.zip
